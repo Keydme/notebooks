@@ -1,0 +1,10 @@
+https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.8
+palera1n二进制绕过工具
+https://www.bilibili.com/read/cv21168284/
+B站ios15-16绕过教程
+https://dkxuanye.cn/?p=6462
+上方b站原链接
+https://dkxuanye.cn/?p=5563
+ibypasser紫屏读写
+https://dkxuanye.cn/?p=7633
+Iskip绕过垃圾，不支持重启
