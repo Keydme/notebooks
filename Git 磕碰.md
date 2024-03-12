@@ -52,3 +52,5 @@ Your branch is up to date with 'origin/master'.
 本地使用master提交需要上头的审核
 ```
 T w T 好难git
+
+[通过 SSH 连接到 GitHub(完美指南)](https://docs.github.com/zh/enterprise-server@3.8/authentication/connecting-to-github-with-ssh)
