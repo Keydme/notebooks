@@ -44,3 +44,10 @@ git push -u origin master
 3. `git fetch --all` -- make sure I'm aware of the most recent commits
 4. `git branch -u origin/master master` -- tell my local master to track origin master
 ```
+
+```
+Your branch is up to date with 'origin/master'.
+只在让我们不要使用master
+因为github默认新建repo是main branch
+本地使用master提交需要上头的审核
+```
