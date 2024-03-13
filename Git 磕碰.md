@@ -58,5 +58,5 @@ T w T 好难git
 tnnd
 
 md qisi laozi l
-
+[git 优秀的合并教程](https://blog.csdn.net/trustnature/article/details/124030984)
 male ge bazi 
