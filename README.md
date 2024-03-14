@@ -16,9 +16,12 @@
 #python #spider 
 - [[爬虫]]
 - [[b_prove_comment]]
-- 
+- [[bilibili CSRF研究]]
+- [[B站API相关]]
+- [[bilibili CSRF研究]]
 ## 项目
-- 
+- [[Build Your Own系列]]
+- [[C51单片机学习]]
 - 
 ## 数据库(sql)
 #MySQL #SQLite
@@ -47,3 +50,5 @@
 - [[数学统计名词定律]]
 - [[他人博客网站收集]]
 - [[注意事项]]
+- [[IPhone越狱绕过]]
+- [[TED]]
