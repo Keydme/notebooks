@@ -10,7 +10,8 @@
 # 分类
 ## Linux
 #Linux 
-- 
+- [[linux 指令]]
+- [[Linux 科学上网]]
 ## Python + 爬虫
 #python #spider 
 - [[爬虫]]
@@ -18,22 +19,27 @@
 - 
 ## 项目
 - 
--
+- 
 ## 数据库(sql)
 #MySQL #SQLite
 - 
 - 
 ## 网站
-#Vue #Flask
+#Vue #Flask #gunicorn #nginx
 - [[学不明白Dvue]]
-- 
+- [[flask+gunicorn+nginx在服务器上搭建部署个人网站]]
 ## 工具
 #git #qbittorrent 
+- [[Git 磕碰]]
+- [[Selenium]]
+- [[qBittorrent]]
+- [[Tor]]
 - 
 - 
 ## Bugs~
 #bug 
-- 
+- [[VScode 报错]]
+- [[Git 磕碰]]
 - 
 ## 杂
 - [[大学生数学竞赛]]
