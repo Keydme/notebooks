@@ -37,7 +37,7 @@
 
 ## 工具
 #git #qbittorrent 
-- [[Git 磕碰]]
+- [[Git指令表]]
 - [[Selenium]]
 - [[qBittorrent]]
 - [[Tor]]
