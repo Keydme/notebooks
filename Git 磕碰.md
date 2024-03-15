@@ -1,6 +1,7 @@
 #git #github #ssh 
 [Pro Git 原书中版](https://git-scm.com/book/zh/v2)
 
+[ssh: connect to host github.com port 22: Connection timed out fatal: Could not read from remote repo](https://blog.csdn.net/weixin_45869649/article/details/124365483)
 连接检测
 ```bash
 ssh -T git@github.com
@@ -108,3 +109,8 @@ config.ini
 
 **十分重要**：如果你不慎在创建.gitignore文件之前就push了项目，那么即使你在.gitignore文件中写入新的过滤规则，这些规则也不会起作用，Git仍然会对所有文件进行版本管理。简单来说出现这种问题的原因就是Git已经开始管理这些文件了，所以你无法再通过过滤规则过滤它们。所以大家一定要养成在项目开始就创建.gitignore文件的习惯，否则一单push，处理起来会非常麻烦。
 ？以上真假？？
+远古git报错 
+[Fatal: Unable To Access ‘Https://Github.Com/…‘的解决办法](https://www.choupangxia.com/2021/05/18/git-error/)
+
+git commit之禅
+[How to Write a Git Commit Message](https://cbea.ms/git-commit/)
