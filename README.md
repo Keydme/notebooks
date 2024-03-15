@@ -19,7 +19,7 @@
 - [[bilibili CSRF研究]]
 - [[B站API相关]]
 - [[bilibili CSRF研究]]
-- [[Python+物理]]
+- [[Python+物理(动画保存)]]
 ## 项目
 - [[Build Your Own系列]]
 - [[C51单片机学习]]
