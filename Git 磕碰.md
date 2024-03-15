@@ -31,7 +31,7 @@ git config --global https.proxy http://127.0.0.1:7890
 ```
 
 
-git 启动(连接远程仓库)
+git 启动(连接远程仓库)（目前建议ssh建立）
 ```bash
 git init
 git remote add origin https://github.com/Keydme/notebooks.git
@@ -41,6 +41,9 @@ git pull https://github.com/Keydme/notebooks.git main --allow-unrelated-historie
 git commit -m "first_push"
 git push -u origin master
 ```
+(ssh版)
+只需将git remote add ...
+改成
 ```bash
 1. `git init` -- create a new repo in "my-site"
 2. `git remote add origin https://github.com/.....` -- make this repo a "clone" of my origin
@@ -53,6 +56,8 @@ Your branch is up to date with 'origin/master'.
 只在让我们不要使用master
 因为github默认新建repo是main branch
 本地使用master提交需要上头的审核
+emmm
+2编主要是远程用的是main，但是没master，所以就无效了
 ```
 T w T 好难git
 
@@ -62,4 +67,18 @@ tnnd
 
 md qisi laozi l
 [git 优秀的合并教程](https://blog.csdn.net/trustnature/article/details/124030984)
+[git pull & git push的详细使用](https://blog.csdn.net/matafeiyanll/article/details/129832152)
 male ge bazi 
+在某些场合，Git会自动在本地分支与远程分支之间，建立一种追踪关系(tracking)。比如，在git clone的时候，所有本地分支默认与远程主机的同名分支，建立追踪关系，也就是说，本地的master分支自动”追踪”origin/master分支。
+Git也允许手动建立追踪关系。
+`$ git branch --set-upstream master origin/next`
+当然这里是next分支
+
+变基用于新建个库，并于原远程库可以形成关系？
+`$ git pull --rebase`
+使本地库可push？
+
+
+
+
+
