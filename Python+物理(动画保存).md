@@ -32,8 +32,8 @@ def pend(y, t, b, c):
 
 - y0  
     y0,很好理解，自然就是微分方程的初始值
-- args很简单看第三个微分方程_theta''(t) + b*theta'(t) + c*sin(theta(t)) = 0的例子：_  
-    _b,c_是常量，而这个args就是用来带入这个常量的
+- args很简单看第三个微分方程$theta''(t) + b*theta'(t) + c*sin(theta(t)) = 0$的例子:
+    \_b,c_是常量，而这个args就是用来带入这个常量的
 - t  
     自然就是定义域的的数值,比如当t在（0，100）时,就可以
 
