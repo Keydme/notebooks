@@ -1,3 +1,17 @@
+##### scipy.integrate.solve_iv
+scipy.integrate.solve_ivp(fun, t_span, y0, method='RK45', t_eval=None, dense_output=False, events=None, vectorized=False, args=None, **options)
+此函数在给定初始值的情况下对常微分方程组进行数值积分：
+```python
+dy / dt = f(t, y)
+y(t0) = y0
+```
+
+
+这里t是一维自变量(时间)，y(T)是N维矢值函数(状态)，N维矢值函数f(t，y)确定微分方程。目标是在给定初始值y(T0)=y0的情况下找到近似满足微分方程的y(T)。
+
+一些求解器支持复数域中的积分，但请注意，对于刚性ODE求解器，右侧必须是复数可微的(满足Cauchy-Riemann方程 [[11]](https://www.osgeo.cn/scipy/reference/generated/scipy.integrate.solve_ivp.html#r179348322575-11)) 。要解决复杂域中的问题，请使用复杂数据类型传递y0。另一个总是可用的选择是分别重写实部和虚部的问题。
+
+
 ##### scipy中的odient函数求解微分方程简单讲解
 odeint(func, y0, t, args=(), Dfun=None, col_deriv=0, full_output=0,ml=None, mu=None, rtol=None, atol=None, tcrit=None, h0=0.0,hmax=0.0, hmin=0.0, ixpr=0, mxstep=0, mxhnil=0, mxordn=12,  mxords=5, printmessg=0, tfirst=False)
 ###### 参数解析
