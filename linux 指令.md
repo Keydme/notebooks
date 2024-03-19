@@ -17,3 +17,4 @@ date +%H 显示当前小时
 
 ## links
 [大量时间相关](https://www.jb51.net/jiaoben/297846gya.htm)
+[易姐linux](https://www.yuque.com/socialsisteryi)
