@@ -15,7 +15,7 @@ PreferredAuthentications publickey
 IdentityFile ~/.ssh/id_rsa
 Port 443
 ```
-![[Pasted image 20240121201916.png]]
+![[img/Pasted image 20240121201916.png]]
 git 配置查看
 ```bash
 git config --global -l

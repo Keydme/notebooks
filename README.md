@@ -11,18 +11,18 @@
 ## Linux
 #Linux 
 - [[linux 指令]]
-- [[Linux 科学上网]]
+- [[Linux/Linux 科学上网]]
 ## Python + 爬虫
 #python #spider 
-- [[爬虫]]
-- [[b_prove_comment]]
-- [[bilibili CSRF研究]]
-- [[B站API相关]]
-- [[bilibili CSRF研究]]
-- [[Python+物理(动画保存)]]
+- [[Python/爬虫]]
+- [[API/b_prove_comment]]
+- [[API/bilibili CSRF研究]]
+- [[API/B站API相关]]
+- [[API/bilibili CSRF研究]]
+- [[Python/Python+物理(动画保存)]]
 ## 项目
 - [[Build Your Own系列]]
-- [[C51单片机学习]]
+- [[杂/C51单片机学习]]
 - 
 ## 数据库(sql)
 #MySQL #SQLite
@@ -31,16 +31,16 @@
 ## 网站
 #Vue #Flask #gunicorn #nginx
 - [[学不明白Dvue]]
-- [[flask+gunicorn+nginx在服务器上搭建部署个人网站]]
+- [[Linux/flask+gunicorn+nginx在服务器上搭建部署个人网站]]
 ## 电路
-- [[PCB画板]]
+- [[杂/PCB画板]]
 
 ## 工具
 #git #qbittorrent 
 - [[Git指令表]]
-- [[Selenium]]
-- [[qBittorrent]]
-- [[Tor]]
+- [[Python/Selenium]]
+- [[杂/qBittorrent]]
+- [[Python/Tor]]
 - 
 - 
 ## Bugs~
@@ -49,13 +49,13 @@
 - [[Git 磕碰]]
 - 
 ## 杂
-- [[大学生数学竞赛]]
+- [[杂/大学生数学竞赛]]
 - [[上学行李清单]]
 - [[奇思妙想]]
-- [[数学统计名词定律]]
+- [[杂/数学统计名词定律]]
 - [[网站收集]]
 - [[注意事项]]
 - [[英文词汇(特别版)]]
-- [[IPhone越狱绕过]]
-- [[TED]]
+- [[杂/IPhone越狱绕过]]
+- [[杂/TED]]
 - 

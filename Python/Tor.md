@@ -1,6 +1,6 @@
-![[Pasted image 20240131213021.png]]
+![[img/Pasted image 20240131213021.png]]
 [tor官网](https://torproject.org/)
-若是国内服务器要先打开[[Linux 科学上网]]
+若是国内服务器要先打开[[Linux/Linux 科学上网]]
 
 [Tor启动检测](https://github.com/ohyicong/Tor/tree/master)
 [chrome开启tor](https://stackoverflow.com/questions/55689701/how-to-use-tor-with-chrome-browser-through-selenium)
