@@ -10,6 +10,15 @@ y(t0) = y0
 这里t是一维自变量(时间)，y(T)是N维矢值函数(状态)，N维矢值函数f(t，y)确定微分方程。目标是在给定初始值y(T0)=y0的情况下找到近似满足微分方程的y(T)。
 
 一些求解器支持复数域中的积分，但请注意，对于刚性ODE求解器，右侧必须是复数可微的(满足Cauchy-Riemann方程 [[11]](https://www.osgeo.cn/scipy/reference/generated/scipy.integrate.solve_ivp.html#r179348322575-11)) 。要解决复杂域中的问题，请使用复杂数据类型传递y0。另一个总是可用的选择是分别重写实部和虚部的问题。
+![[Pasted image 20240320020216.png]]
+```python
+def lorenz(w,t): # 定义微分方程组 
+	sigma=10;rho=28;beta=8/3
+	x,y,z=w 
+	return np.array([sigma*(y-x),rho*x-y-x*z,x*y-beta*z])
+```
+
+
 
 
 ##### scipy中的odient函数求解微分方程简单讲解
