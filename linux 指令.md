@@ -7,8 +7,11 @@ alias la "ls -al"
 chmod 777 设置至高无上的权利
 ps -ef 查看所有进程(process)
 date +%H 显示当前小时
+whoami 查看用户名
+grep 查找指定行
 
 
+neofetch 查看版本等好玩信息
 
 
 
