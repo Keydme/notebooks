@@ -45,15 +45,46 @@ plt.tick_params(which="major",direction='in',length=5,bottom=True,left=True)
 1. 折线  `plt.plot(X,Y)`
 2. 散点  `plt.scatter(X,Y)`
 3. 柱状  `plt.bar(X,Y)`
-4. ()直方图  `plt.hist(array)`
-5. 折线  `plt.plot(X,Y)`
-6. 
+4. (频数)直方图  `plt.hist(array)`
+5. 饼图  `plt.pie(data,labels=,autopct='%1.1f%%')`
+6. 箱线图 `plt.boxplot(X,Y)`
+![[../Pasted image 20240324175613.png]]
+7. 流图 `plt.streamplot(X,Y,U,V,linewidth=2)`
+8. 等高图 `plt.contour(X,Y,Z,level)`
+9. 3D面图 `ax.plot_surface(X,Y,Z)`
+	(`fig,ax=plt.subplots(subplot_kw={"projection":"3d"})`)
+10. 待续
+## 基本操作
+1. 添加信息
+```python
+plt.xlabel() # 设置 x 轴标签 
+plt.ylabel() # 设置 y 轴标签 
+plt.title() # 设置标题
+```
+2. 显示刻度
+`plt.xticks()`
+3. 显示图例
+`plt.legend()`
+4. 显示图像
+`plt.show`
+5. 样式设计
+```python
+# 设置线条宽度 
+plt.rcParams['lines.linewidth']=1 
+# 设置线条颜色 
+plt.rcParams['lines.color']='green' 
+# 设置线条样式 
+plt.rcParams['lines.linestytle']='-'
+```
 
+## 简单的高级用法
 
-
-
-
-
+名词解析：
+- 画板-Figure
+- 画纸-Axes
+- 坐标轴-Axis
+- 样式-Artist
+- ...
 
 
 
