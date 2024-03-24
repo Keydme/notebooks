@@ -18,3 +18,45 @@ PS:上面这个图中有很多好用的东西
 ![[../img/Pasted image 20240324155729.png]]
 
 [极好的pyplot的简单教程](https://blog.csdn.net/Crayonxin2000/article/details/119910846?spm=1001.2014.3001.5502)
+
+# pyplot基础
+matplotlib有些默认配置不能显示中文，而且格式不符合论文规范，需要设置一下
+```python
+# 设置字体为宋体
+plt.rcParams['font.family'] = ['serif'] # 设置字体为有衬线字体（宋体是有衬线字体之一）
+plt.rcParams['font.serif'] = ['SimSun'] # 设置有衬线字体为宋体
+## 下面的是设置字体为黑体
+# plt.rcParams['font.family'] = ['sans-serif'] # 设置字体为无衬线字体（黑体是无衬线字体之一）
+# plt.rcParams['font.sans-serif'] = ['SimHei'] # 设置无衬线字体为黑体
+
+# 设置公式格式
+plt.rcParams['mathtext.fontset'] = 'stix'
+
+# 正常显示负号
+plt.rcParams['axes.unicode_minus'] = False
+plt.rcParams['font.size']=18 #设 置字体字号
+plt.rcParams['xtick.labelsize']=16 # 设置横坐标轴字体字号
+plt.rcParams['ytick.labelsize']=16 # 设置纵坐标轴字体字号
+
+# 设置刻度朝里，我喜欢朝里，默认的朝外感觉有点丑
+plt.tick_params(which="major",direction='in',length=5,bottom=True,left=True)
+```
+## plt绘图类型
+1. 折线  `plt.plot(X,Y)`
+2. 散点  `plt.scatter(X,Y)`
+3. 柱状  `plt.bar(X,Y)`
+4. ()直方图  `plt.hist(array)`
+5. 折线  `plt.plot(X,Y)`
+6. 
+
+
+
+
+
+
+
+
+
+
+
+
