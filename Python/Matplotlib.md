@@ -15,3 +15,6 @@ PS:上面这个图中有很多好用的东西
 
 [python画个好看的双复摆](https://zhuanlan.zhihu.com/p/340482320)
 主要使用atplotlib.animation.FuncAnimation保存动画
+![[../img/Pasted image 20240324155729.png]]
+
+[极好的pyplot的简单教程](https://blog.csdn.net/Crayonxin2000/article/details/119910846?spm=1001.2014.3001.5502)
