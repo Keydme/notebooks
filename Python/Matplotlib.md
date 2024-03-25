@@ -48,7 +48,7 @@ plt.tick_params(which="major",direction='in',length=5,bottom=True,left=True)
 4. (频数)直方图  `plt.hist(array)`
 5. 饼图  `plt.pie(data,labels=,autopct='%1.1f%%')`
 6. 箱线图 `plt.boxplot(X,Y)`
-![[../Pasted image 20240324175613.png]]
+![[../img/Pasted image 20240324175613.png]]
 7. 流图 `plt.streamplot(X,Y,U,V,linewidth=2)`
 8. 等高图 `plt.contour(X,Y,Z,level)`
 9. 3D面图 `ax.plot_surface(X,Y,Z)`
