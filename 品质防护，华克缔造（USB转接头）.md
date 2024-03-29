@@ -4,8 +4,8 @@
 
 ![[img/outline.png]]
 
-![[img/pin_descrip2.png]]
-
 ![[img/pin_assignment.png]]
 
 ![[img/pin_descrip1.png]]
+
+![[img/pin_descrip2.png]]
