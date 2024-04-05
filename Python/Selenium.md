@@ -32,3 +32,5 @@ ip查询
 
 [tor 命令行版本（使用代理（linux））](https://pincong.rocks/article/15960)
 [tor 指令网站](https://2019.www.torproject.org/docs/tor-manual.html.en)
+
+简单教程，selenium的点击失效时，可以使用js去把文本的algin去改为0，这样就可以点击了，我也不知道为啥，然后可以先登陆，用cookies打印然后在需要的地方用循环来输入

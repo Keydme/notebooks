@@ -1,3 +1,4 @@
+[sql英文教程网站](https://www.geeksforgeeks.org/sql-tutorial/?ref=lbp)
 主要查询
 # 打死也要记住法则1：col
 
