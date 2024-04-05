@@ -108,3 +108,5 @@
 |（select -）as tmp||（select -）as tmp|select结果做子表|
 |in（select -）||in（select -）|select结果做条件|
 |avg（select -）||avg（select -）|select结果做条件|
+# 建表(creat)
+# 声明(alert)
