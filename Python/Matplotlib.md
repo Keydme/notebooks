@@ -1,4 +1,7 @@
 #python #可视化
+[可以随机做几个的好看玩意](https://matplotlib.org/stable/gallery/index.html)
+
+
 [热力图的绘制](https://blog.csdn.net/KIKI_ZSH/article/details/123505175)
 主要通过 **matplotlib.pyplot.imshow()** 色系展示
 或 **matplotlib.pyplot.matshow()** 绘制指定图

@@ -22,7 +22,7 @@
 - [[Python/Python+物理(动画保存)]]
 ## 项目
 - [[Build Your Own系列]]
-- [[杂/C51单片机学习]]
+- [[板子/C51单片机学习]]
 - 
 ## 数据库(sql)
 #MySQL #SQLite
@@ -33,7 +33,7 @@
 - [[学不明白Dvue]]
 - [[Linux/flask+gunicorn+nginx在服务器上搭建部署个人网站]]
 ## 电路
-- [[杂/PCB画板]]
+- [[板子/PCB画板]]
 
 ## 工具
 #git #qbittorrent 

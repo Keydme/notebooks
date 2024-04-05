@@ -110,4 +110,5 @@
 |in（select -）||in（select -）|select结果做条件|
 |avg（select -）||avg（select -）|select结果做条件|
 # 建表(creat)
+[好看的建表](https://www.cnblogs.com/beishanqingyun/p/17090371.html)
 # 声明(alert)
