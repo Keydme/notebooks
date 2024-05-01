@@ -64,5 +64,15 @@ https://ds.alipay.com/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2
 
 接下来看一下，scheme 调用小程序之后，应用和页面的处理逻辑。在叙述之前，先了解下前后台的定义。
 
+
+
+## 
 主要为了应付垃圾小程序，每次要等巨久
 
+
+
+[安卓开发工具合集](https://github.com/Tamsiree/RxTool)
+```shell
+# 打开指定小程序的实例
+adb shell am start -n com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity "alipays://platformapi/startapp?appId=2021001155694496&page=pages%2Findex%2Findex&enbsv=0.2.2404201401.53&chInfo=ch_share__chsub_CopyLink&fxzjshareChinfo=ch_share__chsub_CopyLink&shareTimestamp=1714475285376&apshareid=461f4e09-df23-4070-8904-f1cc081e1b9d&shareBizType=H5App_XCX"
+```
