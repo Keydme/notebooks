@@ -1,3 +1,6 @@
+如果遇到突然无法下载的问题，可以通过这个换一下源就好了
+termux-change-repo
+
 (手机上的Linux??)
 [obsidian 手机git](https://zhuanlan.zhihu.com/p/619764281)
 
