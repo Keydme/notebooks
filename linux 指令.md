@@ -12,7 +12,7 @@ grep 查找指定行
 
 
 neofetch 查看版本等好玩信息
-
+cal 日历
 
 
 
