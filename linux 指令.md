@@ -10,7 +10,7 @@ date +%H 显示当前小时
 whoami 查看用户名
 grep 查找指定行
 
-
+uname -r 查看核心版本
 neofetch 查看版本等好玩信息
 cal 日历
 
