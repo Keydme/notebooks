@@ -14,4 +14,11 @@
 
 e.g.
 //父元素名[@属性名1='属性值1']/子元素名[@属性名2='属性值2']
+可使用 and or not 进行运算选择
+//tagname[contains(text(),'value')]：匹配包含指定值的文本内容的元素。
 
+|函数|说明|举例|
+|--|--|--|
+|contains|选取属性或者文本包含某些字符|//div[contains(@id, 'data')] 选取 id 属性包含 data 的 div 元素|
+|starts-with|	选取属性或者文本以某些字符开头|	//div[starts-with(@id, 'data')] 选取 id 属性以 data 开头的 div 元素|
+| ends-with | 选取属性或者文本以某些字符结尾 | //div[ends-with(@id, 'require')] 选取 id 属性以 require 结尾的 div 元素|
