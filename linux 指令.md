@@ -1,4 +1,6 @@
 ## command
+ls -lh <目录路径> check storage
+du -sh <目录路径> 查看内存
 df -h 查看内存
 ls 看当前目录下的可见文档
 ls -al 查看所有文件详细信息
