@@ -114,3 +114,30 @@ config.ini
 
 git commit之禅
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+
+
+## git 将master分支转main
+[原文链接(5步转换)](https://blog.csdn.net/qyfx123456/article/details/129543324)
+```bash
+All commands
+# Step 1 
+# create main branch locally, taking the history from master
+git branch -m master main
+
+# Step 2 
+# push the new local main branch to the remote repo (GitHub) 
+git push -u origin main
+
+# Step 3
+# switch the current HEAD to the main branch
+git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+
+# Step 4
+# change the default branch on GitHub to main
+# https://docs.github.com/en/github/administering-a-repository/setting-the-default-branch
+
+# Step 5
+# delete the master branch on the remote
+git push origin --delete master
+
+```
