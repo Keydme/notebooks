@@ -67,6 +67,7 @@ T w T 好难git
 tnnd
 
 md qisi laozi l
+### 合并相关
 [git 优秀的合并教程](https://blog.csdn.net/trustnature/article/details/124030984)
 [git pull & git push的详细使用](https://blog.csdn.net/matafeiyanll/article/details/129832152)
 male ge bazi 
@@ -79,7 +80,7 @@ Git也允许手动建立追踪关系。
 `$ git pull --rebase`
 使本地库可push？
 
-.gitignore文件以下简单用法
+### .gitignore文件以下简单用法
 ```bash
 # dir 不需要提交的目录
 /node_modules
@@ -141,3 +142,8 @@ git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
 git push origin --delete master
 
 ```
+
+
+### 碎碎念
+> 各种回退教程不如直接剪切下载再塞回去有效（（（
+

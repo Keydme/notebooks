@@ -8,6 +8,8 @@ termux-change-repo
 
 [Termux 高级配置](https://blog.csdn.net/qq_39312146/article/details/127913614)
 
+[国光的高档教程](https://www.sqlsec.com/2018/05/termux.html#Termux-%E7%AE%80%E4%BB%8B)
+
 [Termux Themes for many type](https://blog.csdn.net/m0_57236802/article/details/135183963)
 
 [Termux ssh to link win](https://www.jianshu.com/p/5963a747e280/)
@@ -52,3 +54,7 @@ termux-change-repo
 |-t/--title title|要显示的通知标题|
 |--vibrate pattern|vibrate pattern, comma separated as in 500,1000,200|
 |--type type|要使用的通知风格（default/media）|
+
+
+备份压缩所需目录
+tar -zcf /sdcard/1/termux-backup.tar.gz home usr
