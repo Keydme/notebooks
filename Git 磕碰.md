@@ -2,7 +2,7 @@
 [Pro Git 原书中版](https://git-scm.com/book/zh/v2)
 
 [ssh: connect to host github.com port 22: Connection timed out fatal: Could not read from remote repo](https://blog.csdn.net/weixin_45869649/article/details/124365483)
-连接检测
+### 连接检测
 ```bash
 ssh -T git@github.com
 ```
