@@ -144,6 +144,18 @@ git push origin --delete master
 ```
 
 
+### git init
+建立远程仓库时可以用
+`git --bare init`
+防止push后文件无法查看
+若非如此，必须使用
+`git reset --hard`
+下载文件
+`git config --bool core.bare true`
+转换仓库状态
+`git config recieve.denyCurrentBranch ignore`
+接收远程的push
+
 ### 碎碎念
 > 各种回退教程不如直接剪切下载再塞回去有效（（（
 
