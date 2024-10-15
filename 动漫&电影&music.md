@@ -38,7 +38,7 @@
 
 钢炼
 
-
+[妖兽都市](https://search.bilibili.com/all?from_source=webcommentline_search&keyword=%E5%A6%96%E5%85%BD%E9%83%BD%E5%B8%82&seid=5332161845528222417) BGM：[![](https://i0.hdslb.com/bfs/reply/9f3ad0659e84c96a711b88dd33f4bc2e945045e0.png)Help Me](https://search.bilibili.com/all?from_source=webcommentline_search&keyword=Help%20Me&seid=5332161845528222417) 专辑：Somewhere Over the Slaughterhouse 歌手：Buckethead
 
 凉宫春日的忧郁
 
