@@ -40,12 +40,10 @@
 
 妖兽都市 BGM：Help Me 专辑：Somewhere Over the Slaughterhouse 歌手：Buckethead
 
-凉宫春日的忧郁
-
 yl的青酱无法学习
 
 ## 看过
-
+凉宫春日的忧郁
 
 玉子爱情故事
 
