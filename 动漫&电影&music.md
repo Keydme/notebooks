@@ -34,8 +34,6 @@
 
 紫罗兰
 
-无职转生
-
 钢炼
 
 妖兽都市 BGM：Help Me 专辑：Somewhere Over the Slaughterhouse 歌手：Buckethead
@@ -85,3 +83,4 @@ jojo
 
 镇魂街
 
+无职转生I-II,2024.11.28-11.30
