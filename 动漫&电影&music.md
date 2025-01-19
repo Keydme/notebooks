@@ -34,13 +34,13 @@
 
 紫罗兰
 
-无职转生
-
 钢炼
 
 妖兽都市 BGM：Help Me 专辑：Somewhere Over the Slaughterhouse 歌手：Buckethead
 
 yl的青酱无法学习
+
+不存在的战区
 
 ## 看过
 凉宫春日的忧郁
@@ -85,3 +85,4 @@ jojo
 
 镇魂街
 
+无职转生I-II,2024.11.28-11.30
