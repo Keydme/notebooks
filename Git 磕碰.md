@@ -6,6 +6,11 @@
 ```bash
 ssh -T git@github.com
 ```
+
+```
+Hi Keydme! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
 ~/.ssh/config文件内容
 ```bash
 Host github.com
