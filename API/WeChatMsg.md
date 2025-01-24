@@ -34,6 +34,18 @@ def decode(fn,psd=""):
 
 ```python
 # 几大文件的存储位置
-
+#### 关于鄙人微信手机备份copy
+prefix = ['/data/data/com.tencent.mm/MicroMsg/{}/','/sdcard/Android/data/com.tencent.mm/MicroMsg/{}/']
+suffix = ['image2','avator','EnMicroMsg.db','WxFileIndex.db','voice2','voide','Download']
+wx_file_path = [prefix[i//4]+suffix[i] for i in range(7)]
+# 1,1
+# 5,2
+class WeBackUp():
+    def __init__(self,uid='',psd=''):
+        if not uid:
+            pass
+        if not psd:
+            pass
 
 ```
+未完待续。。。
