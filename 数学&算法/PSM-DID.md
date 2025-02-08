@@ -97,6 +97,14 @@ $$g(\hat p_i,\hat p_j)=G(\frac{\hat p_i-\hat p_j}{h})/\Sigma_{i\in\Omega_0}G(\fr
 
 ### 利用did提高估计效率
 
+$$\delta=\frac{1}{n}\Sigma_{i\in\Omega_1}(\Delta IN_{i,t+s}-\Sigma_{i\in\Omega_0}g(\hat p_i,\hat p_j)\Delta IN_{j,t+s}) $$
+其中，$\Delta IN_{k,t+s}=IN_{k,t+s}-IN_{k,t+s-1},k=i,j$表示进行对外直接投资前后企业创新量的变动情况 。
+
+**由于仅对外直接投资后由非转型成创新型有意义，故主要以标准PSM进行估计因果效应**
+**以PSM-DID进行稳健性分析**
+
+
+
 
 
 
